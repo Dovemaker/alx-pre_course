@@ -1,1 +1,2 @@
-my second commit
+my second commitment
+as a determined engineer
